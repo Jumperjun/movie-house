@@ -1,0 +1,25 @@
+.navbar {
+  background-color:rgb(115, 207, 235);
+  padding-bottom:1.2rem;
+}
+
+.navbar-brand {
+  color:white;
+  display:flex;
+  justify-content:center;
+  font-weight:bold;
+  margin-left:0.5rem;
+  margin-top:0.5rem;
+}
+
+.nav-item {
+  margin-left: 0.5rem;
+}
+
+.card-body {
+  height:5rem;
+}
+
+.pagination {
+  margin-top:1.5rem;
+}
