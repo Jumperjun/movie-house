@@ -1,6 +1,10 @@
 # Movie List
 A movie-list webpage that has a search bar, a mode-switch button, a movie list,a movie detail modal window and add movies to favorite list.
 
+## Live Demo
+
+[https://movie-house-five.vercel.app/](https://movie-house-five.vercel.app/)
+
 ## Installation
 
 * `git clone`
